@@ -118,7 +118,6 @@ O projeto ainda está em fase inicial, e alguns pontos estão pendentes:
 ## 👥 Autores
 
 - Arthur Gabriel dos Anjos
-- Ana Luíza Domingos Xavier
 - Giovana Gonçalves Silva
 
 ## 📄 Licença
