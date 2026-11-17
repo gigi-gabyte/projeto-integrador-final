@@ -271,7 +271,7 @@ BRTO: {
       hover_color: "#27cf11",
       color: "#363636",
       zoomable: "no",
-      url: "/regioes/norte"
+      
     },
     "2": {
       states: [
