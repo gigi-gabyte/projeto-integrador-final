@@ -22,7 +22,7 @@ app.use(
 
 app.use(express.json())
 
-
+app.use(express.static(path.join(_dirname, 'public')))
 
 app.use('/regioes', regioesR)
 app.use('/cadastro', cadastroR)
