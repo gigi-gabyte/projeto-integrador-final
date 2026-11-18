@@ -21,7 +21,7 @@ body
 
 .btn-default
 {
-    background-color: rgba(0, 0, 0, 0.307);
+    background-color: rgba(39, 0, 0, 0.932);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -29,7 +29,7 @@ body
     padding: 8px 12px;
     border-radius: 0px;
     font-size: 15px;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-weight: bold;
     cursor: pointer;
     gap: 8px;
@@ -40,7 +40,7 @@ body
 
 .btn-default:hover
 {
-    background-color:rgba(47, 47, 47, 0.307);
+    background-color:rgb(0, 0, 0);
 }
 
 #form_container
@@ -50,7 +50,7 @@ body
     gap: 32px;
     height: 100%;
     width: 50vh;
-    background-color: #3c0000;
+    background-color: #a50000;
     padding: 20px;
     border-radius: 0px;
     box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
